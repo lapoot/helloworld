@@ -29,7 +29,7 @@ jobs:
         pip install flake8 pytest
         make install-requirements
 
-      - name: Test
-        run: |
-          make activate
-          make test
+    - name: Test
+      run: |
+        make activate
+        make test
