@@ -1,4 +1,4 @@
-black==21.5b2
+black==21.6b0
 chalice==1.22.4
 flake8==3.9.1
 isort==5.9.1
