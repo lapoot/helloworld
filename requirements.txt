@@ -4,7 +4,7 @@ flake8==3.9.2
 isort==5.9.1
 mypy==0.910
 pytest==6.2.4
-radon==5.0.1
+radon==5.1.0
 SQLAlchemy==1.4.20
 marshmallow==3.13.0
 peewee==3.14.4
