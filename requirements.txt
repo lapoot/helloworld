@@ -2,7 +2,7 @@ black==21.6b0
 chalice==1.23.0
 flake8==3.9.2
 isort==5.9.1
-mypy==0.910
+mypy==0.941
 pytest==6.2.4
 radon==5.0.1
 SQLAlchemy==1.4.20
